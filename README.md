@@ -56,9 +56,8 @@ The Blockchain Voting System is a decentralized application that allows users to
 
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Demo Sample
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## Acknowledgments
 
