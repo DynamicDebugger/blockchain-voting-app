@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Voting App</title>
+    <link rel="stylesheet" href="style.css">    
+</head>
+
+<body>
+    <div class="container">
+    <h1>Blockchain Voting App</h1>
+
+    <h2>Candidates</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Candidate Name</th>
+                <th>Vote Count</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody id="candidatesTable">
+            <!-- Candidates will be dynamically inserted here -->
+        </tbody>
+    </table>
+
+    <div class="container1">
+        <h2>Vote for a Candidate</h2>
+        <form id="voteForm">
+            <div id="candidateOptions">
+                <!-- Candidate options will be dynamically inserted here -->
+            </div>
+            <button type="submit">Submit Vote</button>
+        </form>
+        
+        <p id="statusMessage"></p>
+    </div>
+</div>
+    <script src="./node_modules/web3/dist/web3.min.js"></script>
+    <script src="script1.js"></script>
+</body>
+
+</html>
