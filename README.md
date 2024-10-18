@@ -24,8 +24,8 @@ The Blockchain Voting System is a decentralized application that allows users to
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/blockchain-voting-system.git
-   cd blockchain-voting-system
+   git clone https://github.com/DynamicDebugger/blockchain-voting-app.git
+   cd blockchain-voting-app
    ```
 
 2. **Install dependencies**:
