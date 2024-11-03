@@ -57,7 +57,7 @@ The Blockchain Voting System is a decentralized application that allows users to
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to submit a pull request.
 
 ## Demo Sample
-[![image](https://github.com/user-attachments/assets/078d4ba4-c984-4cb7-8238-d4ace93c7ac9)](https://github.com/user-attachments/assets/078d4ba4-c984-4cb7-8238-d4ace93c7ac9)
+[![image](https://github.com/user-attachments/assets/7666b8b3-5991-4fd8-9ae7-d40c4d02bd43)](https://github.com/user-attachments/assets/f83ee9f2-75e1-40b6-ab92-2546dd8ae8ab)
 
 
 ## Acknowledgments
